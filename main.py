@@ -1,6 +1,6 @@
 import tkinter as tk
 
-from utils.cost import expaction,max_cost,max_p_worst
+from utils.cost import expaction,max_p_worst
 
 def on_botton_click():
     
